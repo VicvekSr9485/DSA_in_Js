@@ -7,4 +7,4 @@ const missingNumber = (num) => {
     //using reduce array method
     // return num.length*(num.length + 1)/2 - num.reduce((acc, num) => acc + num);
 }
-console.log(missingNumber([1,4,3]))
+console.log(missingNumber([0,1,4,3]))
